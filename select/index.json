@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "初恋の絵本",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2025-12-25T13:30:56.137918Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初恋の絵本",
+      "artist": "sana×HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_初恋の絵本_sana×HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初恋の絵本 -another story- feat.芹沢春輝(CV：鈴村健一)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_初恋の絵本_-another_story-_feat.芹沢春輝(CV_鈴村健一)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "初恋の絵本 feat.合田美桜(CV：豊崎愛生)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_初恋の絵本_feat.合田美桜(CV_豊崎愛生)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "初恋の絵本",
+      "artist": "HoneyWorks feat.合田美桜 (豊崎愛生)",
+      "has_synced": true,
+      "path": "select/04_初恋の絵本_HoneyWorks_feat.合田美桜_(豊崎愛生).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "初恋の絵本",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_初恋の絵本_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "初恋の絵本",
+      "artist": "HoneyWorks feat. 合田美桜(CV:豊崎愛生)",
+      "has_synced": true,
+      "path": "select/06_初恋の絵本_HoneyWorks_feat._合田美桜(CV_豊崎愛生).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "初恋の絵本 -another story-",
+      "artist": "HoneyWorks feat. 芹沢春輝(CV:鈴村健一)",
+      "has_synced": true,
+      "path": "select/07_初恋の絵本_-another_story-_HoneyWorks_feat._芹沢春輝(CV_鈴村健一).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "初恋の絵本 -another story-",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_初恋の絵本_-another_story-_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "初恋の絵本",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_初恋の絵本_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "初恋の絵本",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/10_初恋の絵本_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Re:初恋の絵本 feat. 合田美桜(CV:豊崎愛生)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/11_Re_初恋の絵本_feat._合田美桜(CV_豊崎愛生)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "初恋の絵本",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/12_初恋の絵本_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Re:初恋の絵本",
+      "artist": "HoneyWorks feat. 瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜",
+      "has_synced": true,
+      "path": "select/13_Re_初恋の絵本_HoneyWorks_feat._瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "初恋の絵本 (feat. 合田美桜 (CV:豊崎愛生))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/14_初恋の絵本_(feat._合田美桜_(CV_豊崎愛生))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "初恋の絵本（WINTER MIX）",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/15_初恋の絵本(WINTER_MIX)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "初恋の絵本 (feat. ヲタみん) (WINTER MIX)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/16_初恋の絵本_(feat._ヲタみん)_(WINTER_MIX)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "初恋の絵本 another story",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/17_初恋の絵本_another_story_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋の絵本 (feat. 96猫)",
+      "artist": "HoneyWorks, 96猫",
+      "has_synced": false,
+      "path": "select/pl_01_初恋の絵本_(feat._96猫)_HoneyWorks,_96猫.txt"
+    }
+  ]
+}
